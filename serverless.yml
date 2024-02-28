@@ -1,0 +1,16 @@
+
+service: spotlight-tweet
+frameworkVersion: "3"
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+
+plugins:
+  - serverless-offline
+
+functions:
+  api:
+    handler: handler.handler
+    events:
+      - httpApi: '*'
