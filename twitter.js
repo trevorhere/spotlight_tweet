@@ -1,6 +1,5 @@
 require('dotenv').config();
 const crypto = require('crypto');
-const OAuth = require('oauth-1.0a');
 const CONSUMER_KEY = process.env.TWITTER_CONSUMER_KEY;
 const CONSUMER_SECRET = process.env.TWITTER_CONSUMER_SECRET;
 const ACCESS_TOKEN = process.env.ACCESS_TOKEN;

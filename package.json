@@ -9,9 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "crypto": "^1.0.1",
-    "node-fetch": "^3.3.2",
-    "oauth-1.0a": "^2.2.6",
-    "serverless-offline": "^13.3.3"
+    "crypto": "^1.0.1"
   }
 }
