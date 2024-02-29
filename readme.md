@@ -1,7 +1,8 @@
 
 #### Description:
 
-This app enables a user to send tweets from the spotlight toolbar in macOS using [Alfred](https://www.alfredapp.com).
+This app enables a user to send tweets from the spotlight toolbar in macOS using [Alfred](https://www.alfredapp.com), like so:
+
 ![image of text in macOS toolbar](<toolbar_tweet.png>)
 
 
