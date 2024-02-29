@@ -1,7 +1,7 @@
 
 #### Description:
 
-This app enables a user to send tweets from the spotlight toolbar using (Alfred)[https://www.alfredapp.com].
+This app enables a user to send tweets from the spotlight toolbar using [Alfred](https://www.alfredapp.com).
 
 ### Setup:
 
@@ -29,4 +29,4 @@ ACCESS_TOKEN
 ACCESS_TOKEN_SECRET
 ```
 
-These four values can be retrieved in the X developer [platform](https://developer.twitter.com)
+These four values can be retrieved in the [X developer platform](https://developer.twitter.com)
