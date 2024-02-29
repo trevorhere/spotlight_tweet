@@ -2,13 +2,15 @@
 #### Description:
 
 This app enables a user to send tweets from the spotlight toolbar in macOS using [Alfred](https://www.alfredapp.com).
+![image of text in macOS toolbar](<toolbar_tweet.png>)
+
 
 ### Setup:
 
 To set up in Alfred, create a new work flow where a 'run script' object is triggered by a 'keyword' object.
 In my case I use the keywords 'new tweet' which triggers the aforementioned script. 
 
-![alt text](<alfred_setup.png>)
+![image of object configuration in alfred](<alfred_setup.png>)
 
 Here is the script code:
 
