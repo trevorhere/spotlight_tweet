@@ -21,12 +21,12 @@ cd ~/dev/spotlight_tweet && node index.js "$1"
 
 Additionally, you will need to create an .env file in the root folder of the project with the following values:
 
+
+```
 TWITTER_CONSUMER_KEY
-
 TWITTER_CONSUMER_SECRET
-
 ACCESS_TOKEN
-
 ACCESS_TOKEN_SECRET
+```
 
-These four values can be retrieved in the X developer (platform)[https://developer.twitter.com]
+These four values can be retrieved in the X developer [platform](https://developer.twitter.com)
