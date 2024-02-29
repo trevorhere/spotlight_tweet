@@ -12,6 +12,8 @@ In my case I use the keywords 'new tweet' which triggers the aforementioned scri
 
 Here is the script code:
 
+*(note the project path, you will need to update this to match the path of your project)*
+
 ```
 #!/bin/zsh
 
